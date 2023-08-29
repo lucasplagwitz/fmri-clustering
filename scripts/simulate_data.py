@@ -47,7 +47,7 @@ def generate_slice(n_measurements: int = 4,
     for meas in range(n_measurements):
         for i in range(cortical_peak[0], cortical_peak[0]+5):
             for j in range(cortical_peak[1], cortical_peak[1]+5):
-                X[meas, i, j] = (1+np.exp(-((xts+(i/50-1))**2))*
+                X[meas, i, j] = (1+np.exp(-((xts+((i+j)/30-2))**4))*
                                                              max_bold_change*(i/70)).tolist()*repeats
                 X[meas, +7+i, j] = (1+ np.exp(-((xts-1-np.abs(i/100-1))**2)) *
                                                                 negative_bold_chage).tolist() * repeats

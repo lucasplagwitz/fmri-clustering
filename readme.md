@@ -24,10 +24,7 @@ repository encompasses the following types of analyses:
 3. Line-Scanning - Rise (Euclidean-based)
 4. Slice - Amplitude (Correlation-based)
 5. Slice - Amplitude (Euclidean-based)
-
-ToDo:
-- Line-Scanning - Decay (Dynamic-Time-Warping)
-- Slice - Rise (Euclidean-based)
+6. Slice - Rise (Euclidean-based)
 
 To accurately replicate the results presented in the paper, 
 please submit a request for the data via email.
