@@ -22,10 +22,10 @@ repository encompasses the following types of analyses:
 1. Line-Scanning - Amplitude (Correlation-based)
 2. Line-Scanning - Amplitude (Euclidean-based)
 3. Line-Scanning - Rise (Euclidean-based)
+5. Slice - Amplitude (Correlation-based)
 
 ToDo:
-4. Line-Scanning - Decay (Dynamic-Time-Warping) 
-5. Slice - Amplitude (Correlation-based)
+4. Line-Scanning - Decay (Dynamic-Time-Warping)
 6. Slice - Amplitude (Euclidean-based)
 7. Slice - Rise (Euclidean-based)
 
