@@ -3,9 +3,9 @@
 This repository features Python code designed 
 to perform data-driven analysis of sensory 
 cortical processing, as detailed in the 
-research paper titled "Data-driven signal analysis 
+research paper titled [Data-driven signal analysis 
 of sensory cortical processing using high-resolution 
-fMRI across different studies", 
+fMRI across different studies](https://www.biorxiv.org/content/10.1101/2023.08.01.551587v1), 
 available for review here.
 
 <p align="center">
