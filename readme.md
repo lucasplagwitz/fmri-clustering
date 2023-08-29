@@ -22,12 +22,12 @@ repository encompasses the following types of analyses:
 1. Line-Scanning - Amplitude (Correlation-based)
 2. Line-Scanning - Amplitude (Euclidean-based)
 3. Line-Scanning - Rise (Euclidean-based)
-5. Slice - Amplitude (Correlation-based)
+4. Slice - Amplitude (Correlation-based)
+5. Slice - Amplitude (Euclidean-based)
 
 ToDo:
-4. Line-Scanning - Decay (Dynamic-Time-Warping)
-6. Slice - Amplitude (Euclidean-based)
-7. Slice - Rise (Euclidean-based)
+- Line-Scanning - Decay (Dynamic-Time-Warping)
+- Slice - Rise (Euclidean-based)
 
 To accurately replicate the results presented in the paper, 
 please submit a request for the data via email.
