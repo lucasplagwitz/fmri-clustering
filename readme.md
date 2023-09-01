@@ -5,17 +5,17 @@ to perform data-driven analysis of sensory
 cortical processing, as detailed in the 
 research paper titled [Data-driven signal analysis 
 of sensory cortical processing using high-resolution 
-fMRI across different studies](https://www.biorxiv.org/content/10.1101/2023.08.01.551587v1), 
-available for review here.
+fMRI across different studies](https://www.biorxiv.org/content/10.1101/2023.08.01.551587v1).
 
 <p align="center">
-<img src="./demo/img.png">
+    <img src="./demo/img.png">
 </p>
 
 ## Tutorials
 
 We offer a suite of analytical workflows specifically 
-designed for data-driven examination of fMRI data. 
+designed for data-driven examination of functional magnetic 
+resonance imaging (fMRI) data. 
 These workflows are demonstrated in notebooks that 
 employ simulated data as examples. Currently, the 
 repository encompasses the following types of analyses:
